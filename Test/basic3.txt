@@ -1,0 +1,25 @@
+var x;
+
+//var y;
+
+func abs()
+{
+  var i;
+  
+//var j;
+var t;
+  
+/*for i in 1...x{
+    
+for j in 1...i{
+ 
+t=i-j;     
+    }; 
+ };*/print(t);
+
+ 
+} 
+
+read(x);
+
+call abs();

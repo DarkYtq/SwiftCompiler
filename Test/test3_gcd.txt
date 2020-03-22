@@ -1,0 +1,28 @@
+const a=84,b=36;
+var x,y,z,q,r;
+func gcd()
+  {
+var f,g;  
+    f=x; g=y;
+    while f!=g 
+      {
+        if f<g { g=g-f;
+};
+        if g<f {
+f=f-g;
+};
+      };
+    z=f;
+print(a);
+print(b);
+print(z);
+  }
+ x=a; y=b;
+ call gcd();
+
+
+
+
+
+
+

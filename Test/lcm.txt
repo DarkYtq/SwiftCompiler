@@ -1,0 +1,26 @@
+var a;
+var b;
+var c;
+var lcm;
+func gcd() {
+  var aa;
+  var bb;
+  aa = a;
+  bb = b;
+  while aa!=bb {
+    if aa > bb {
+      aa = aa - bb;
+    }
+    else {
+      bb = bb - aa;
+    };
+  };
+  c = aa;
+}
+read(a);
+read(b);
+call gcd();
+print(c);
+lcm = a / c;
+lcm = lcm * b;
+print(lcm);

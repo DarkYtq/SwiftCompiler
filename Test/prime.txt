@@ -1,0 +1,22 @@
+var i;
+var j;
+var k;
+var p;
+var t;
+var q;
+for i in 2...100 {
+  t = 0;
+  q = i - 1;
+  for j in 2...q {
+    k = i / j;
+    k = k * j;
+    p = i - k;
+    if p == 0 {
+      t =t + 1;
+    };
+  };
+  if t == 0 {
+    print(i);
+  };
+};
+

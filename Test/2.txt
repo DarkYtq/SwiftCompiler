@@ -1,0 +1,14 @@
+var i;
+func test(){
+  var j;
+  var i;
+  i = 1;
+  read(j);
+  if i < j {
+      i = i + 1;
+    };
+  print(i);
+}
+i = 1;
+call test();
+print(i);

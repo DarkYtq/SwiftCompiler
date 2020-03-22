@@ -1,0 +1,15 @@
+var m, sum;
+func psum()
+{
+var x;
+if m>0
+ {
+  sum=sum+m;
+  m=m-1;
+  call psum();
+ };
+}
+  m=100;
+  sum=0;
+  call psum();
+  print(sum);

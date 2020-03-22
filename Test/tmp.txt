@@ -1,0 +1,7 @@
+var a;
+func b ()
+{
+return 5;
+}
+a = call b ();
+print (a);
