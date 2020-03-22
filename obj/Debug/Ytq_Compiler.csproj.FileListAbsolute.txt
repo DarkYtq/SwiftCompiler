@@ -1,0 +1,30 @@
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\bin\Debug\Ytq_Compiler.exe.config
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\bin\Debug\Ytq_Compiler.exe
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\bin\Debug\Ytq_Compiler.pdb
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\YCompiler.BaseForm.resources
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\YCompiler.Ytq_Compiler.resources
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\YCompiler.Properties.Resources.resources
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\Ytq_Compiler.csproj.GenerateResource.Cache
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\Ytq_Compiler.exe
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\Ytq_Compiler.pdb
+E:\ytq\CodingClass\Compiler\Ytq_Compiler\obj\Debug\Ytq_Compiler.csprojResolveAssemblyReference.cache
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\bin\Debug\Ytq_Compiler.exe.config
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\Ytq_Compiler.exe
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\Ytq_Compiler.pdb
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\bin\Debug\Ytq_Compiler.exe
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\bin\Debug\Ytq_Compiler.pdb
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\Ytq_Compiler.csprojResolveAssemblyReference.cache
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\YCompiler.BaseForm.resources
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\YCompiler.Ytq_Compiler.resources
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\YCompiler.Properties.Resources.resources
+G:\10142130119_杨天强_编译原理\Ytq_Compiler\obj\Debug\Ytq_Compiler.csproj.GenerateResource.Cache
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\bin\Debug\Ytq_Compiler.exe.config
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\Ytq_Compiler.exe
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\Ytq_Compiler.pdb
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\bin\Debug\Ytq_Compiler.exe
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\bin\Debug\Ytq_Compiler.pdb
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\Ytq_Compiler.csprojResolveAssemblyReference.cache
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\YCompiler.BaseForm.resources
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\YCompiler.Ytq_Compiler.resources
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\YCompiler.Properties.Resources.resources
+G:\YtqDemo\2017.11 SWCompiler(C# and C++)\Ytq_Compiler(C# Version Cool UI)\obj\Debug\Ytq_Compiler.csproj.GenerateResource.Cache
