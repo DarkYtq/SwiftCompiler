@@ -7,13 +7,15 @@ Step1:
 
 Open the test folder and open a code file to comiple.
 
-<img src="https://github.com/DarkYtq/SwiftCompiler/tree/master/Manual/Step1.png" width="500" alt="Step1"/>
+<img src="https://github.com/DarkYtq/SwiftCompiler/tree/master/Manual/Step1.png" width="500" 
+alt="Step1"/>
 
 Step2:
 
 Set debug step num and run debug mode.If debug step = 0 you can run all code in one time.
 
-<img src="https://github.com/DarkYtq/SwiftCompiler/tree/master/Manual/Step1.png" width="500" alt="Step2"/>
+<img src="https://github.com/DarkYtq/SwiftCompiler/tree/master/Manual/Step1.png" width="500" 
+alt="Step2"/>
 
 Step3:
 
