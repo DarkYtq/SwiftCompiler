@@ -7,7 +7,7 @@ Step1:
 
 Open the test folder and open a code file to comiple.
 
---
+---
 <img src="https://github.com/DarkYtq/SwiftCompiler/tree/master/Manual/Step1.png" width="500" 
 alt="Step1"/>
 
